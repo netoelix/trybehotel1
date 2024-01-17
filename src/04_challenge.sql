@@ -5,5 +5,5 @@ VALUES ('Terry', 'Medhurst', 'atuny0@email.com', 31, '2022-12-31'),
 ('Mavis', 'Abbott', 'kmeus4@email.com', 60, '2022-06-01'),
 ('Oleta', 'Schultz', 'dpettegre6@email.com', 29, '2023-09-25'),
 ('Ewell', 'Mueller', 'ggude7@dotmail.com', 15, '2019-09-02'),
-('Demetrius', '	Corkery', 'nloiterton8@email.com	', 31, '2023-08-03'),
-('Eleanora', '	Price', 'umcgourty9@dotmail.com', 39, '2018-01-16'),
+('Demetrius', 'Corkery', 'nloiterton8@email.com', 31, '2023-08-03'),
+('Eleanora', 'Price', 'umcgourty9@dotmail.com', 39, '2018-01-16');

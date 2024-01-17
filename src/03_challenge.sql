@@ -4,5 +4,5 @@ CREATE TABLE trybe_hotel.users (
     last_name VARCHAR(100) NOT NULL,
     email VARCHAR(60),
     age INTEGER,
-    created_at DATE DEFAULT(NOW())
+    created_at DATE NOT NULL DEFAULT(NOW())
 );
